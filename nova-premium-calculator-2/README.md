@@ -1,4 +1,4 @@
-# Nova — Smart Calculator
+#Calculator
 
 A polished, responsive calculator built with **HTML, CSS, and vanilla JavaScript**. No frameworks or build tools required.
 
@@ -38,7 +38,7 @@ Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your GitHub details.
 ## Project structure
 
 ```text
-premium-calculator/
+simple-calculator/
 ├── index.html
 ├── style.css
 ├── script.js
